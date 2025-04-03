@@ -32,3 +32,7 @@ This **E-Learning Platform UI** offers multiple benefits:
 - **Scalability** – The platform can be expanded with features like quizzes, login authentication, and certificates.  
 
 Overall, this UI provides a **solid foundation** for an e-learning platform that can be enhanced with additional functionalities in the future.
+# Output : 
+![Screenshot 2025-04-03 173919](https://github.com/user-attachments/assets/a10bf2da-4650-4e08-b786-d56a213da54a)
+
+
